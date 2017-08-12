@@ -1,0 +1,5 @@
+# WebSotrm generated files
+.idea/
+
+# dependencies
+/node_modules
